@@ -105,7 +105,7 @@ python src/search.py
 
 ### Графики обучения
 
-![Training History](checkpoints/training_history.png)
+![alt text](image-1.png)
 
 **Выводы:**
 - Цель (CLIP Score > 30) достигнута
@@ -113,7 +113,7 @@ python src/search.py
 - Аугментация эффективна
 - Модель готова к использованию
 
-## 🔧 API функций
+##  API функций
 
 ### Поиск товаров
 ```python

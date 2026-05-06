@@ -93,7 +93,7 @@ Query: blue jeans
 → Top-5 relevant products with CLIP Scores
 ```
 
-## 📈 Results
+##  Results
 
 | Metric | Value |
 |--------|-------|
@@ -105,7 +105,7 @@ Query: blue jeans
 
 ### Training Graphs
 
-![Training History](checkpoints/training_history.png)
+![alt text](image.png)
 
 **Conclusions:**
 - Target (CLIP Score > 30) achieved
